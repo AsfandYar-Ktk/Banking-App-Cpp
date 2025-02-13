@@ -1,7 +1,5 @@
 # Banking App in C++
 
-![Project Image](IMAGE_PATH_HERE)
-
 ## 📌 Overview
 This is a simple **banking system** implemented in C++ that allows users to manage their bank accounts efficiently. It provides features such as account creation, debit and credit transactions, money transfers, and transaction history tracking.
 
@@ -19,7 +17,12 @@ This is a simple **banking system** implemented in C++ that allows users to mana
 - File Handling (for storing account data and transaction history)
 
 ## 📸 Screenshots
-*(Replace IMAGE_PATH_HERE with actual image paths)*
+
+![Signup](https://github.com/user-attachments/assets/e83fbf41-e9c8-47ab-bf22-743999487492)
+![Admin Screen](https://github.com/user-attachments/assets/afe777a4-502d-4626-8ecc-3a84c3fd134c)
+![Customer_screen](https://github.com/user-attachments/assets/8b03da54-a95e-4f6f-a60d-8bc5a85134dd)
+![data](https://github.com/user-attachments/assets/e7d5458b-b720-4440-9cf7-0d2c91126233)
+
 
 ## 📦 Setup Instructions
 1. **Clone the Repository**
